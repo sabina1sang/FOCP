@@ -1,0 +1,5 @@
+
+
+fundamental computer programming taskk 
+this is a simple spell checer test
+it can find misspelled words

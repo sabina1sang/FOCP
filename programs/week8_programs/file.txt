@@ -1,0 +1,5 @@
+welcome to the fundamental of computer programming subject.
+program of week8
+It contains some text.
+The text might have the word you're looking for.
+
